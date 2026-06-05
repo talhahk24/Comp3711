@@ -133,7 +133,6 @@ int main()
 	std::cout << "Number of Inversions: " << num_inversions << std::endl;
 	
 	
-	
 
 }
 	
